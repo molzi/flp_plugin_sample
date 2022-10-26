@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"at.clouddna.sample": {
+			"component": "sampleplugin",
+			"url": "../../../../../"
+		}
+	}
+}
